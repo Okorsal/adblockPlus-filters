@@ -1,5 +1,6 @@
+[Adblock Plus 2.0]
 ! Title: My Allowlist
-! Description: Allowlist for Adblock Plus
+! Description: Allowlisted sites for Adblock Plus
 ! Version: 1.0
 ! Last modified: 2025-06-04
 
