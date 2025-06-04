@@ -1,1 +1,7 @@
+! Title: My Allowlist
+! Description: Allowlist for Adblock Plus
+! Version: 1.0
+! Last modified: 2025-06-04
+
+@@||cnn.com^$document
 
